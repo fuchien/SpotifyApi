@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ---
     This is an Angular2 app that uses the Spotify Web Api to find artists and display albums and track listings!
 
-#First you need install dependecies to use an applicatoin
+### First you need install dependecies to use an applicatoin
 
 ---
     npm install
