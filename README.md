@@ -1,6 +1,6 @@
 ## SpotifyApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-rc.4.
+You can see -----> [DEMO](https://chienspotify.herokuapp.com/) <-----
 
 ---
     This is an Angular2 app that uses the Spotify Web Api to find artists and display albums and track listings!
